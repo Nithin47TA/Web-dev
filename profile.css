@@ -16,7 +16,7 @@ a{
     height:100vh;
     box-sizing: border-box;
     position: relative;
-    background-image:url("images/night.jpg");
+    background-image:url(images/night.jpg);
 }
 nav{
     display: flex;
